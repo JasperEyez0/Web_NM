@@ -1,0 +1,18 @@
+{
+  "Regression_Size": [
+    {"id": 0, "getSize": "0", "getV": "0"},
+    {"id": 1, "getSize": "4", "getV": "11"},
+    {"id": 2, "getSize": "6", "getV": "18"},
+    {"id": 3, "getSize": "7", "getV": "23"},
+    {"id": 4, "getSize": "7", "getV": "68"},
+    {"id": 5, "getSize": "8", "getV": "90"}
+  ],
+  "RegressionExample":[
+    {"id": 0, "col1row1": "0", "col1row2": "0", "col2row1": "0", "col2row2": "0"},
+    {"id": 1, "col1row1": "2", "col1row2": "3", "col2row1": "3", "col2row2": "5", "col3row1": "5", "col3row2": "9","col4row1": "8", "col4row2": "24"},
+    {"id": 2, "col1row1": "5", "col1row2": "4", "col2row1": "6", "col2row2": "8", "col3row1": "7", "col3row2": "9","col4row1": "14", "col4row2": "24","col5row1": "17", "col5row2": "36","col6row1": "25", "col6row2": "42"},
+    {"id": 3, "col1row1": "3", "col1row2": "8", "col2row1": "4", "col2row2": "12", "col3row1": "7", "col3row2": "15","col4row1": "8", "col4row2": "17","col5row1": "13", "col5row2": "-22","col6row1": "15", "col6row2": "-79","col7row1": "25", "col7row2": "42"},
+    {"id": 4, "col1row1": "8", "col1row2": "3", "col2row1": "10", "col2row2": "6", "col3row1": "12", "col3row2": "9","col4row1": "8", "col4row2": "24","col5row1": "17", "col5row2": "43","col6row1": "36", "col6row2": "79","col7row1": "70", "col7row2": "120"},
+    {"id": 5, "col1row1": "15", "col1row2": "-15", "col2row1": "24", "col2row2": "5", "col3row1": "5", "col3row2": "9","col4row1": "8", "col4row2": "19","col5row1": "18", "col5row2": "41","col6row1": "36", "col6row2": "79","col7row1": "70", "col7row2": "120", "col8row1": "90", "col8row2": "200"}
+  ]
+}
